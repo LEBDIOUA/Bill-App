@@ -1,13 +1,9 @@
-# Billapp backend
-
-================ FR ====================
+<div align="center">
+  <h1>Billapp backend</h1>
+</div>
 
 ## Comment lancer l'API en local:
 
-### Cloner le projet:
-```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
-```
 ### Utilisez une version de node compatible
 Si vous utilisez une version récente de node sur votre ordinateur, il se peut qu'il y ai des erreurs lors de l'installation de certaines dépendances. Pour cela il est important de vous assurer que vous ayez une version de node compatible par exemple node v16 ou v18. 
 
@@ -59,49 +55,5 @@ mot de passe : admin
 ### employé :
 ```
 utilisateur : employee@test.tld
-mot de passe : employee
-```
-
-
-================ EN ====================
-
-
-## How to run the API locally :
-
-
-### Clone the projet:
-```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
-```
-
-### Go to the project directory :
-```
-cd Billed-app-FR-Back
-```
-
-### Install project dependancies :
-
-```
-npm install
-```
-
-### Run the API :
-
-```
-npm run:dev
-```
-
-### Access to the PAI :
-
-The API is locally available on port `5678`, go to `http://localhost:5678`
-
-### administrateur : 
-```
-utilisateur : admin@company.tld 
-mot de passe : admin
-```
-### employé :
-```
-utilisateur : employee@company.tld
 mot de passe : employee
 ```
