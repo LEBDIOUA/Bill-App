@@ -1,10 +1,15 @@
-# Bill App
+<div align="center">
+  <h1>Bill App</h1>
+</div>
+ 
+<br>
+<br>
 
-================ Installation et Configuration ====================
+# ============= Installation et Configuration =============
 
 ## l'architecture :
 Ce projet, appelé frontend, est associé à un service API backend que vous devez également exécuter en local.
-Vous trouverez donc deux dossiers : Billed-app-FR-Back et Billed-app-FR-Front..
+Vous trouverez donc deux dossiers : Billed-app-FR-Back et Billed-app-FR-Front.
 
 bill-app/
    - Billed-app-FR-Back
@@ -50,8 +55,10 @@ mot de passe : admin
 utilisateur : employee@test.tld
 mot de passe : employee
 ```
+<br>
+<br>
 
-================ Description  ====================
+# ============ Description et Problématique ============
 
 ## Description :
 Ce projet est développé par Billed, une entreprise spécialisée dans la production de solutions SaaS destinées aux équipes de ressources humaines.
@@ -67,11 +74,12 @@ Pour le back-end, qui nous offre un service API, les deux parcours est prêt en 
 En ce qui concerne le côté front-end, le parcours administrateur a été testé et nécessite désormais des corrections de bogues, tandis que le parcours employé doit être entièrement testé et débogué.
 
 ## À réaliser
-    ° Fixer les bugs identifiés dans le rapport de bug fourni par Jest.
-    ° Fixer les bugs identifiés sur le parcours employé.
-    ° Ajouter des tests unitaires et d’intégration pour les fichiers Bills et NewBill
+* Fixer les bugs identifiés dans le rapport de bug fourni par Jest.
+* Fixer les bugs identifiés sur le parcours employé.
+* Ajouter des tests unitaires et d’intégration pour les fichiers Bills et NewBill
 
 ## Les outils utilisés
+
 
 ## Bug report - bills
 
