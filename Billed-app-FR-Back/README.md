@@ -2,7 +2,7 @@
   <h1>Billapp backend</h1>
 </div>
 
-## Comment lancer l'API en local:
+## Comment lancer l'API en local ?
 
 ### Utilisez une version de node compatible
 Si vous utilisez une version récente de node sur votre ordinateur, il se peut qu'il y ai des erreurs lors de l'installation de certaines dépendances. Pour cela il est important de vous assurer que vous ayez une version de node compatible par exemple node v16 ou v18. 
